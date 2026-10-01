@@ -1,0 +1,12 @@
+@WaitSpark.Api_HostAddress = http://localhost:5188
+
+GET {{WaitSpark.Api_HostAddress}}/api/v1/me
+Authorization: Bearer {{token}}
+Accept: application/json
+
+###
+
+POST {{WaitSpark.Api_HostAddress}}/api/v1/auth/users
+Authorization: Bearer {{token}}
+
+###

@@ -1,0 +1,28 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="192.5" height="166.25" viewBox="0 0 192.5 166.25" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Image / clinic-photo-01" filter="url(#filter0_d_0_245)">
+<g clip-path="url(#clip0_0_245)">
+<rect x="17.5" y="8.75" width="157.5" height="131.25" rx="10.5" fill="url(#paint0_linear_0_245)"/>
+<circle id="Ellipse" cx="131.25" cy="52.5" r="26.25" fill="white" fill-opacity="0.6"/>
+<ellipse id="Ellipse_2" cx="91.875" cy="140" rx="91.875" ry="48.125" fill="#0F766E" fill-opacity="0.55"/>
+<ellipse id="Ellipse_3" cx="144.375" cy="144.375" rx="65.625" ry="39.375" fill="#0B4F4A" fill-opacity="0.7"/>
+</g>
+</g>
+<defs>
+<filter id="filter0_d_0_245" x="0" y="0" width="192.5" height="166.25" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="8.75"/>
+<feGaussianBlur stdDeviation="8.75"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_0_245"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_0_245" result="shape"/>
+</filter>
+<linearGradient id="paint0_linear_0_245" x1="17.5" y1="8.75" x2="109.713" y2="119.406" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FDE7D6"/>
+<stop offset="1" stop-color="#F4A38A"/>
+</linearGradient>
+<clipPath id="clip0_0_245">
+<rect x="17.5" y="8.75" width="157.5" height="131.25" rx="10.5" fill="white"/>
+</clipPath>
+</defs>
+</svg>

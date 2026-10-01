@@ -1,0 +1,11 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="68.25" height="4.375" viewBox="0 0 68.25 4.375" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Live status" clip-path="url(#clip0_0_181)">
+<circle id="Ellipse" cx="1.75" cy="2.1875" r="1.75" fill="#DDE3EA"/>
+<rect id="Skeleton" x="7" width="61.25" height="4.375" rx="2.1875" fill="#DDE3EA"/>
+</g>
+<defs>
+<clipPath id="clip0_0_181">
+<rect width="68.25" height="4.375" fill="white"/>
+</clipPath>
+</defs>
+</svg>

@@ -1,0 +1,12 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="201.25" height="201.25" viewBox="0 0 201.25 201.25" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Photo light" filter="url(#filter0_f_0_299)">
+<circle cx="100.625" cy="100.625" r="65.625" fill="#5EEAD4" fill-opacity="0.45"/>
+</g>
+<defs>
+<filter id="filter0_f_0_299" x="0" y="0" width="201.25" height="201.25" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="17.5" result="effect1_foregroundBlur_0_299"/>
+</filter>
+</defs>
+</svg>
