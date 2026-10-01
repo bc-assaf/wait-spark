@@ -1,4 +1,4 @@
-# Waiting Spark Portal
+# Wait Spark Portal
 
 An SPA responsible for onboarding, configuration, subscription, etc.
 

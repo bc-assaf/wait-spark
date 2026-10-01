@@ -1,6 +1,6 @@
-# Waiting Spark Server
+# Wait Spark Server
 
-Waiting Spark is an app for managing waiting rooms displays' content and interactive games.
+Wait Spark is an app for managing waiting rooms displays' content and interactive games.
 
 ## Components and Tech Stack
 
@@ -59,6 +59,8 @@ Run from `src/`:
 Run from `src/WaitSpark.UI.Portal/`:
 
 - `npm run dev` (http://localhost:5173), `npm test`, `npm run lint`, `npm run build`
+
+Run from `docs/`: `npm start`, `npm run build`. Algolia search needs `ALGOLIA_APP_ID`, `ALGOLIA_API_KEY`, `ALGOLIA_INDEX_NAME` (see `docs/.env.example`).
 
 TODO: Scraper and other UI projects.
 
